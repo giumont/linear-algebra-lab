@@ -1,6 +1,6 @@
 # Linear Algebra Experiments
 
-**Author:** Giulia Montagnani  
+**Author:** *Giulia Montagnani*  
 
 This project is a collection of numerical experiments in Linear Algebra using **Python**, **NumPy**, and **Matplotlib**.  
 Each module reproduces a theoretical result or explores a fundamental numerical property of matrices.  
