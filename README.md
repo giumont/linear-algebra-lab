@@ -1,5 +1,7 @@
 # Linear Algebra Experiments
 
+**Author:** Giulia Montagnani  
+
 This project is a collection of numerical experiments in Linear Algebra using **Python**, **NumPy**, and **Matplotlib**.  
 Each module reproduces a theoretical result or explores a fundamental numerical property of matrices.  
 It is designed for **didactic purposes**, offering a **simple and introductory** approach to numerical linear algebra concepts in data science and their **basic** Python implementation.
@@ -124,5 +126,3 @@ svd_image_compression.run("data/demo_image.jpg", k_values=[5, 20, 50])
 All plots and images are automatically saved in the `outputs/` directory.
 
 ---
-
-**Author:** Giulia Montagnani  
