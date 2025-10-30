@@ -1,9 +1,8 @@
 # Linear Algebra Experiments
 
-A collection of numerical experiments in Linear Algebra using **Python**, **NumPy**, and **Matplotlib**.  
-Each module reproduces a theoretical result or explores a fundamental numerical property of matrices. 
-The project is designed for **didactic purposes**, offering a **simple and introductory** approach to numerical linear algebra concepts in data science and their **basic** Python implementation.
----
+This project is a collection of numerical experiments in Linear Algebra using **Python**, **NumPy**, and **Matplotlib**.  
+Each module reproduces a theoretical result or explores a fundamental numerical property of matrices.  
+It is designed for **didactic purposes**, offering a **simple and introductory** approach to numerical linear algebra concepts in data science and their **basic** Python implementation.
 
 ## Project Structure
 
